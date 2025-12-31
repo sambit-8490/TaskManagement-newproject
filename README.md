@@ -18,8 +18,14 @@ A full-stack Task Manager application built using the MERN stack.
 
 ## Setup
 
-### Backend
+### Backend & Frontend
 ```bash
 cd server
 npm install
 npm run dev
+
+cd client
+npm install
+npm start
+
+
