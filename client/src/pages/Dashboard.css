@@ -1,0 +1,24 @@
+.dashboard {
+  padding: 20px;
+}
+
+.filters {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.filters input,
+.filters select {
+  padding: 8px;
+}
+
+.pagination button {
+  margin: 5px;
+}
+
+.pagination .active {
+  background: #2563eb;
+  color: white;
+}

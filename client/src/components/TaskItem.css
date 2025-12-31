@@ -1,0 +1,11 @@
+@media (max-width: 600px) {
+  .task-item {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .actions {
+    display: flex;
+    justify-content: flex-end;
+  }
+}
